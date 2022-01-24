@@ -1,0 +1,12 @@
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\bin\Debug\net6.0\PFClean.Domain.deps.json
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\bin\Debug\net6.0\PFClean.Domain.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\bin\Debug\net6.0\ref\PFClean.Domain.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\bin\Debug\net6.0\PFClean.Domain.pdb
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.AssemblyInfoInputs.cache
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.AssemblyInfo.cs
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.csproj.CoreCompileInputs.cache
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\ref\PFClean.Domain.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.pdb
+C:\Users\el-co\source\repos\PFClean\PFClean.Domain\obj\Debug\net6.0\PFClean.Domain.csproj.AssemblyReference.cache

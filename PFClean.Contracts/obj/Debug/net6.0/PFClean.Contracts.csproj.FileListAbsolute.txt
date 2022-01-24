@@ -1,0 +1,15 @@
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\bin\Debug\net6.0\PFClean.Contracts.deps.json
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\bin\Debug\net6.0\PFClean.Contracts.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\bin\Debug\net6.0\ref\PFClean.Contracts.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\bin\Debug\net6.0\PFClean.Contracts.pdb
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\bin\Debug\net6.0\PFClean.Domain.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\bin\Debug\net6.0\PFClean.Domain.pdb
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.csproj.AssemblyReference.cache
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.AssemblyInfoInputs.cache
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.AssemblyInfo.cs
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.csproj.CopyComplete
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\ref\PFClean.Contracts.dll
+C:\Users\el-co\source\repos\PFClean\PFClean.Contracts\obj\Debug\net6.0\PFClean.Contracts.pdb

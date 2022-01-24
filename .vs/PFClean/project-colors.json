@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8770dbda-748b-4237-8b4d-cc90a5ee9cf5": {
+      "ProjectGuid": "8770dbda-748b-4237-8b4d-cc90a5ee9cf5",
+      "DisplayName": "PFClean.Domain",
+      "ColorIndex": 0
+    },
+    "9ab400ce-bedf-4dd2-b53b-c2e977d1edf4": {
+      "ProjectGuid": "9ab400ce-bedf-4dd2-b53b-c2e977d1edf4",
+      "DisplayName": "PFClean.Infrastructure",
+      "ColorIndex": 1
+    },
+    "e729af39-4b57-4077-a2a2-7f20da05486a": {
+      "ProjectGuid": "e729af39-4b57-4077-a2a2-7f20da05486a",
+      "DisplayName": "PFClean.Services",
+      "ColorIndex": 2
+    },
+    "4515699c-488b-4b50-be62-f835ed1da20b": {
+      "ProjectGuid": "4515699c-488b-4b50-be62-f835ed1da20b",
+      "DisplayName": "PFClean.API",
+      "ColorIndex": 3
+    },
+    "493e50a3-a962-4dc2-ad29-5ab1055209e4": {
+      "ProjectGuid": "493e50a3-a962-4dc2-ad29-5ab1055209e4",
+      "DisplayName": "PFClean.Ap",
+      "ColorIndex": 4
+    },
+    "1f6589b2-b209-4061-aa78-939e92729812": {
+      "ProjectGuid": "1f6589b2-b209-4061-aa78-939e92729812",
+      "DisplayName": "PFClean.Contracts",
+      "ColorIndex": 5
+    },
+    "194a8796-51ee-43ee-b071-5c7280dff0e8": {
+      "ProjectGuid": "194a8796-51ee-43ee-b071-5c7280dff0e8",
+      "DisplayName": "PFClean.Console",
+      "ColorIndex": 6
+    },
+    "3c0caab8-0d71-499e-8033-d9f31bbef43e": {
+      "ProjectGuid": "3c0caab8-0d71-499e-8033-d9f31bbef43e",
+      "DisplayName": "PFClean.Web",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

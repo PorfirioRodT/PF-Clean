@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bpkCxGLNGGsphLHomVK1NMYiBygZYOmk7etrdVP3SJA=",
+  "Source": "PFClean.API",
+  "BasePath": "_content/PFClean.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
